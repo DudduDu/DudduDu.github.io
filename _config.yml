@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: b8guo@ucsd.edu
 description: "It never rains in Southern California."
 keyword: "Guo"
-url: "http://guobingni.github.io"          # your host, for absolute URL
+url: "http://duddu-du.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/guobingni/guobingni.github.io.git" # you code repository
+github_repo: "https://github.com/duddu-du/duddu-du.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,7 +20,7 @@ sidebar-avatar: /img/about-bg-photo.jpg      # use absolute URL, seeing it's use
 RSS: false
 # weibo_username:     qiubaiying
 # zhihu_username:     qiubaiying
-github_username:    guobingni
+github_username:    duddu-du
 # facebook_username:  baiying.qiu.7
 # jianshu_username:   e71990ada2fd
 # twitter_username:   qiubaiying
